@@ -9,7 +9,7 @@
 
 void usage(void) {
     fprintf(stderr,
-        "httpbench [option]... URL\n"
+        "./hb [option]... URL\n"
         "  -h | --help                  Print this information and exit.\n"
         "  -v | --version               Display program version and exit.\n"
         "  -c | --clients <n>           Run <n> clients, default one.\n"
